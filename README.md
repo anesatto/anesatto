@@ -1,8 +1,8 @@
-<div align="center">
-  <img width="500" height="200" src="https://github.com/user-attachments/assets/e3aeabe8-9913-4eb3-9246-d231201d516c" />
-
-  <h1><b>Hi, Welcome to my profile! 👾</b></h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CBA6F7,100:A78BFA&height=120&section=header"/>
+<div align= center>
+<h1><b>Hi, Welcome to my profile! 👾</b></h1>
 </div>
+
 
 🎓 Systems Analysis and Development student <br>
 💼 Experience with Java and Spring Boot (Gateway area) <br>
@@ -69,3 +69,5 @@ IDEs: <br>
 <a href="https://github.com/anesatto">
   <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5C2E7,100:A78BFA&height=140&section=footer"/>
