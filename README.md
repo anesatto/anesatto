@@ -45,11 +45,6 @@ IDEs: <br>
 
 <hr>
 
-<h3>🎯 Learning Goals</h3>
-
-- Building a strong foundation in frontend development <br>
-- Learning more about UI/UX design principles <br>
-
 <h3>🎮 Interests</h3>
 
 - Games <br>
