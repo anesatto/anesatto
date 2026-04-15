@@ -6,7 +6,7 @@
 
 🎓 Systems Analysis and Development student <br>
 💼 Experience with Java and Spring Boot (Gateway area) <br>
-🤔 Currently focusing on frontend development <br>
+🤔 Currently focusing on backend development <br>
 🎮 Interested in games and future work in the gaming industry <br>
 
 <h3>🛠️ Tech Stack</h3>
