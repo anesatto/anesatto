@@ -48,8 +48,8 @@ IDEs: <br>
 <h3>🎮 Interests</h3>
 
 - Games <br>
-- Web development <br>
-- Interface design <br>
+- Backend developer <br>
+- Java developer <br>
 
 <h3>📫 Contacts</h3>
 
